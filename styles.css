@@ -1,0 +1,28 @@
+.head h1{
+  font-family: "Pacifico", cursive;
+  color: red;
+  font-weight: bold;
+  font-size: 32px;
+  height: 100px;
+  margin-top 0px;
+  margin-bottom: 0px;
+}
+
+span {
+  font-family:fantasy;
+  font-size: 20px;
+  color: #000;
+
+}
+
+.descriptor {
+  height: 100px;
+  margin: auto;
+}
+.giphy {
+  width: 200px stretch;
+  height: 200px stretch;
+  padding: 10px;
+  float:left;
+  margin 5px auto;
+}
